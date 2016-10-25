@@ -2,8 +2,8 @@
 // @name           豆瓣电台dbscrobbler
 // @namespace      http://gmscrobber.whosemind.net
 // @description    记录 douban.fm 到last.fm
-// @include        http://douban.fm/
-// @include        http://douban.fm/?*
+// @include        https://douban.fm/
+// @include        https://douban.fm/?*
 // @require        https://raw.githubusercontent.com/justan/lrc/master/lrc.js
 // @require        https://raw.githubusercontent.com/justan/gmscrobber/gh-pages/simple_scrobbler_user.js
 // @version        0.2.3
